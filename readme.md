@@ -78,16 +78,16 @@
 
 | Раздел | Материалы | Ветка |
 | :--- | :--- | :--- |
-| **Bash — основы** | Снимки ВМ, простые команды | [lesson_1](../../tree/) |
-| **Bash — основы** | Простые команды 2 | [lesson_2](../../tree/) |
-| **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_3](../../tree/) |
-| **Bash — основы (ч. 2)** | Простые команды и фильтры | [lesson_4](../../tree/) |
-| **Bash — администрирование (ч. 2)** | Продвинутое администрирование | [lesson_5](../../tree/) |
-| **Bash — написание скриптов** | Демоны `systemd` | [lesson_6](../../tree/) |
-| **Bash — написание скриптов** | Функции | [lesson_7](../../tree/) |
-| **GASM — основы** | Автоматизация сборки (`Makefile`) | [lesson_8](../../tree/) |
-| **Теория** | Теоретические материалы | [theory](../../tree/) |
-| **Доклад** | Доклады на определенную тему | [presentation](../../tree/) |
+| **Bash — основы** | Снимки ВМ, простые команды | [lesson_1](../../tree/hw-creating-vm-snapshots) |
+| **Bash — основы** | Простые команды 2 | [lesson_2](../../tree/hw-simple-commands) |
+| **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_3](../../tree/hw-simple-commands 2) |
+| **Bash — основы (ч. 2)** | Простые команды и фильтры | [lesson_4](../../tree/hw-administration) |
+| **Bash — администрирование (ч. 2)** | Продвинутое администрирование | [lesson_5](../../tree/hw-administration-2) |
+| **Bash — написание скриптов** | Демоны `systemd` | [lesson_6](../../tree/hw-using-the-console-multiplexer-tmux) |
+| **Bash — написание скриптов** | Функции | [lesson_7](../../tree/hw-using-functions) |
+| **GASM — основы** | Автоматизация сборки (`Makefile`) | [lesson_8](../../tree/hw-automating-the-compilation-of-Unix-Makefiles) |
+| **Теория** | Теоретические материалы | [theory](../../tree/theoretical-materials) |
+| **Доклад** | Доклады на определенную тему | [presentation](../../tree/seminar-presentation) |
 
 [^1]: По способам межпроцессного взаимодействия существует отдельный 
 [преподавательский репозиторий](https://github.com/worriedlemon/TOPCollege-OS) 

@@ -84,7 +84,7 @@
 | **Bash — основы (ч. 2)** | Простые команды и фильтры | [lesson_4](../../tree/hw-administration) |
 | **Bash — администрирование (ч. 2)** | Продвинутое администрирование | [lesson_5](../../tree/hw-administration-2) |
 | **Bash - приложения** | Приложения | [lesson_6](../../tree/hw-using-the-console-multiplexer-tmux) |
-| **Bash - написание скриптов** | Создание демонов `systemd` | [lesson_6](../../tree/hw-using-the-console-multiplexer-tmux) |
+| **Bash - написание скриптов** | Создание демонов `systemd` | [lesson_6](../../tree/hw-creating-systemd-daemons) |
 | **Bash — написание скриптов** | Функции | [lesson_7](../../tree/hw-using-functions) |
 | **GASM — основы** | Автоматизация сборки (`Makefile`) | [lesson_8](../../tree/hw-automating-the-compilation-of-Unix-Makefiles) |
 | **Теория** | Теоретические материалы | [theory](../../tree/theoretical-materials) |

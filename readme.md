@@ -80,7 +80,7 @@
 | :--- | :--- | :--- |
 | **Bash — основы** | Снимки ВМ, простые команды | [lesson_1](../../tree/hw-creating-vm-snapshots) |
 | **Bash — основы** | Простые команды 2 | [lesson_2](../../tree/hw-simple-commands) |
-| **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_3](../../tree/hw-simple-commands 2) |
+| **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_3](../../tree/hw-simple-commands-2) |
 | **Bash — основы (ч. 2)** | Простые команды и фильтры | [lesson_4](../../tree/hw-administration) |
 | **Bash — администрирование (ч. 2)** | Продвинутое администрирование | [lesson_5](../../tree/hw-administration-2) |
 | **Bash — написание скриптов** | Демоны `systemd` | [lesson_6](../../tree/hw-using-the-console-multiplexer-tmux) |

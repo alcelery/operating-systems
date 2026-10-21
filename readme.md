@@ -78,17 +78,17 @@
 
 | Раздел | Материалы | Ветка |
 | :--- | :--- | :--- |
-| **Bash — основы** | Снимки ВМ, простые команды | [lesson_1](../../tree/hw-creating-vm-snapshots) |
-| **Bash — основы** | Простые команды 2 | [lesson_2](../../tree/hw-simple-commands) |
-| **Bash — администрирование** | Процессы и сетевой адаптер | [lesson_3](../../tree/hw-administration) |
-| **Bash — основы (ч. 2)** | Простые команды и фильтры | [lesson_4](../../tree/hw-simple-commands-2) |
-| **Bash — администрирование (ч. 2)** | Продвинутое администрирование | [lesson_5](../../tree/hw-administration-2) |
-| **Bash - приложения** | Приложения | [lesson_6](../../tree/hw-using-the-console-multiplexer-tmux) |
-| **Bash - написание скриптов** | Создание демонов `systemd` | [lesson_6](../../tree/hw-creating-systemd-daemons) |
-| **Bash — написание скриптов** | Функции | [lesson_7](../../tree/hw-using-functions) |
-| **GASM — основы** | Автоматизация сборки (`Makefile`) | [lesson_8](../../tree/hw-automating-the-compilation-of-Unix-Makefiles) |
+| **Bash — основы** | Снимки ВМ, простые команды | [hw-creating-vm-snapshots](../../tree/hw-creating-vm-snapshots) |
+| **Bash — основы** | Простые команды 2 | [hw-simple-commands](../../tree/hw-simple-commands) |
+| **Bash — администрирование** | Процессы и сетевой адаптер | [hw-administration](../../tree/hw-administration) |
+| **Bash — основы (ч. 2)** | Простые команды и фильтры | [hw-simple-commands-2](../../tree/hw-simple-commands-2) |
+| **Bash — администрирование (ч. 2)** | Продвинутое администрирование | [hw-administration-2](../../tree/hw-administration-2) |
+| **Bash - приложения** | Приложения | [hw-using-the-console-multiplexer-tmux](../../tree/hw-using-the-console-multiplexer-tmux) |
+| **Bash - написание скриптов** | Создание демонов `systemd` | [hw-creating-systemd-daemons](../../tree/hw-creating-systemd-daemons) |
+| **Bash — написание скриптов** | Функции | [hw-using-functions](../../tree/hw-using-functions) |
+| **GASM — основы** | Автоматизация сборки (`Makefile`) | [hw-automating-the-compilation-of-Unix-Makefiles](../../tree/hw-automating-the-compilation-of-Unix-Makefiles) |
 | **Теория** | Теоретические материалы | [theory](../../tree/theoretical-materials) |
-| **Доклад** | Доклады на определенную тему | [presentation](../../tree/seminar-presentation) |
+| **Доклад** | Доклад про Hannah Montana Linux | [presentation](../../tree/seminar-presentation) |
 
 [^1]: По способам межпроцессного взаимодействия существует отдельный 
 [преподавательский репозиторий](https://github.com/worriedlemon/TOPCollege-OS) 
